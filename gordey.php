@@ -1,5 +1,6 @@
 <?php 
 echo 'sdsad';
 echo "я проверил ок";
-echo 'GoRdEy'
+echo 'GoRdEy';
+echo"Строчка для слияния";
 ?>
