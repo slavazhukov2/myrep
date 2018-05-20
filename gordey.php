@@ -1,5 +1,4 @@
 <?php 
-echo 'sdsad'
-echo 2
-dd
+echo 'sdsad';
+echo "я проверил ок";
 ?>

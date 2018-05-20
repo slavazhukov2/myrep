@@ -1,3 +1,4 @@
 <?php
-    echo "I'm Leonid"
+    echo "I'm Leonid";
+    echo "Я проверил ок";
 ?>
