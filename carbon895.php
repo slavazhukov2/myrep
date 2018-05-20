@@ -7,5 +7,6 @@
     echo "я проверил, ок";
     echo "sla";
 
-    echo "get master"
+    echo "get master";
+    
 ?>
